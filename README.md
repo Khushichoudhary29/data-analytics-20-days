@@ -1,2 +1,19 @@
-[Day3_Pandas_Basics.ipynb](https://github.com/user-attachments/files/24147907/Day3_Pandas_Basics.ipynb)
-Day 3: Pandas basics – loading, filtering, missing values
+# Data Analytics – 20 Day Learning Journey
+
+This repository documents my 20-day structured learning journey in Data Analytics.
+
+## Skills Covered
+- Python (Core & Data Analysis)
+- Pandas & NumPy
+- Data Cleaning & EDA
+- Data Visualization
+- Power BI
+- Git & GitHub
+
+## Structure
+- Each folder contains daily notebooks with notes, code, and practice.
+- Real-world datasets are used wherever possible.
+- Projects are added in later days.
+
+## Goal
+To build strong Data Analytics fundamentals and become internship-ready.
