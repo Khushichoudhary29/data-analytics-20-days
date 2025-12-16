@@ -19,6 +19,7 @@ This repository documents my 20-day structured learning journey in Data Analytic
 To build strong Data Analytics fundamentals and become internship-ready.
 
 ## Notebooks
-Day 1: Python Basics
-Day 2: Python For Data
-Day 4: Pandas GroupBy and aggregation with sales analysis
+- Day 1: Python Basics
+- Day 2: Python For Data
+- Day 3: Pandas Basics
+- Day 4: Pandas GroupBy and aggregation with sales analysis
