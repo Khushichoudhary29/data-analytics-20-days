@@ -24,3 +24,5 @@ To build strong Data Analytics fundamentals and become internship-ready.
 - Day 3: Pandas Basics
 - Day 4: Pandas GroupBy and aggregation with sales analysis
 - Day 5: Data cleaning and missing value handling
+- Day 6: Exploratory Data Analysis on cleaned sales data
+
