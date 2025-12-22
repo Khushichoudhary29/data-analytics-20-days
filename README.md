@@ -28,6 +28,8 @@ To build strong Data Analytics fundamentals and become internship-ready.
 - Day 7: Data visualization using Matplotlib and Seaborn
 - Day 8: Mini project – Sales performance analysis
 - Day 9: SQL basics for data analysis
+- Day 10: SQL joins and subqueries
+
 
 
 
