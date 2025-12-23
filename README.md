@@ -29,6 +29,8 @@ To build strong Data Analytics fundamentals and become internship-ready.
 - Day 8: Mini project – Sales performance analysis
 - Day 9: SQL basics for data analysis
 - Day 10: SQL joins and subqueries
+- Day 11: Excel analysis using formulas and PivotTables
+
 
 
 
